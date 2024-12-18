@@ -9,3 +9,7 @@ hr {
     height: 4px;
     border: none;
 }
+
+iframe {
+  border: none;
+}
